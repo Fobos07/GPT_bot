@@ -1,13 +1,9 @@
-bot_token = '6091338198:AAFmYIoFFBq_BWOVefgQOLszHrw5Z8o5X7c'
-# bot_token = '6298011214:AAFEczYvjYu3531A5ULkTW0pSP2JTCHF_Ik'
-ai_key = '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'
-pay_token_test = '390540012:LIVE:34048'
+bot_token = ''
+ai_key = ''
+pay_token_test = ''
 
 db_config = {
-    'host': '185.182.110.172', 
-    'user': 'admin',
-    'password': 'Qz123_xX45',
-    'db_name': 'GPT_BOT'
+    
     }
 
 commands = ['/start', '/profile', '/buy', '/info', '/settings']
